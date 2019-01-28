@@ -1,0 +1,13 @@
+<img src="[smfinit] (exported)" width="756" height="100" border="0" usemap="#map" />
+
+<map name="map">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR:STUDENT -->
+<area shape="rect" coords="34,3,131,98" alt="facebook" href="http://www.facebook.com" />
+<area shape="rect" coords="144,4,339,91" alt="Twitter icon" href="http://www.twitter.com" />
+<area shape="rect" coords="353,2,450,101" alt="Instagram" href="http://www.instagram.com" />
+<area shape="rect" coords="492,3,706,94" alt="youtube" href="http://www.youtube.com" />
+</map>
